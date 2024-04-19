@@ -1,0 +1,11 @@
+.blue { /*using class*/
+    color: blue;
+}
+
+h1 {  /*using selector*/ 
+    color: green;
+}
+
+body {
+    color: red;
+}
